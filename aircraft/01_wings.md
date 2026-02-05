@@ -1,6 +1,7 @@
                                                             Chapter 3: WINGS
 <p align="center">
-  <img src="../images/wing_diagram.jpg" width="600">
+  <img src="../images/wing_diagram.jpg" 
+    width="600">
 </p>
 
 # What is a Wing?
