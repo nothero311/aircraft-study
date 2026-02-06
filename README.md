@@ -8,7 +8,7 @@ using beginner-level Python programming.
 # What I am learning
 - Forces of flight (lift, drag, thrust, weight)
 - Basic aircraft systems and how an airplane works
-- 
+
 # Purpose of this project
 - To understand how aircraft fly from an engineering perspective
 - To apply programming skills to real-world engineering concepts
